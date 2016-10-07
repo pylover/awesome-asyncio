@@ -12,17 +12,17 @@ A list of awesome Python frameworks, libraries, software and resources about htt
 
 * http://aiohttp.readthedocs.io/en/stable/
 
-### Messaging
+## Messaging
 
 * https://github.com/aio-libs/aiozmq
 * https://github.com/pylover/aiolirc
 
-### IO
+## Files
 
 * https://github.com/Tinche/aiofiles
 
 
-### DB
+## DB
 
 * https://github.com/aio-libs/aioredis
 * https://github.com/aio-libs/aiomysql
