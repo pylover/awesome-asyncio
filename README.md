@@ -8,7 +8,7 @@ A list of awesome Python frameworks, libraries, software and resources about htt
 
 * https://github.com/ronf/asyncssh
 
-### Http
+### HTTP
 
 * http://aiohttp.readthedocs.io/en/stable/
 
@@ -26,3 +26,4 @@ A list of awesome Python frameworks, libraries, software and resources about htt
 
 * https://github.com/aio-libs/aioredis
 * https://github.com/aio-libs/aiomysql
+* https://aiopg.readthedocs.io/en/stable/
